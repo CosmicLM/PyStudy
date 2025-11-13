@@ -6,10 +6,6 @@
 
 This repository is my personal workspace for learning Python from the ground up. It follows a structured, project-based curriculum designed to build a practical and solid understanding of the language.
 
-Each directory corresponds to a section of the curriculum and will contain:
-* `topics.py`: A file with code examples illustrating the core concepts of that section.
-* `project_*.py`: A script for the section's "Bonus Project" to apply and test my knowledge.
-
 ## 📊 Current Status
 
 **Status:** 🚀 In Progress
